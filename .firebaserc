@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "easy-f3601": {
+      "hosting": {
+        "angular-push-notifications": [
+          "easy-f3601"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "easy-f3601"
+  }
+}
